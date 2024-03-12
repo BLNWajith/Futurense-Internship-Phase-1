@@ -18,7 +18,19 @@
 
 ###
 
+<h4 align="left">Data Structure 1</h4>
+
+###
+
 <p align="left">1.Flatten Nested Tuples: Combine elements from nested tuples into one.<br><br>2.Set <-> Tuple Conversion: Swap between sets and tuples easily.<br><br>3.List of Dictionaries to Tuple List: Turn each dictionary in a list into a tuple.<br><br>4.Sort Tuples by Element: Sort a list of tuples by any specific element.<br><br>5.Find Tuple Indices: Locate where certain elements appear in a tuple list.<br><br>6.Dictionary Values to List of Dictionaries: Spread dictionary values into individual dictionaries within a list.</p>
+
+###
+
+<h4 align="left">Data Structure 2</h4>
+
+###
+
+<p align="left">Q1 Description:<br>This Python program is designed to calculate the product by multiplying all the numbers present in each given tuple. It iterates through each number in the tuple, multiplies them together, and prints the final product for each original tuple provided. The function prod_of_tuples is responsible for calculating the product, and it's tested with tuples containing both positive and negative numbers as well as a variety of integers to demonstrate its functionality.<br><br>Q2 Description:<br>However, there seems to be a mistake in the provided code for calculating the average value of numbers in a tuple of tuples. The intention of the program is to compute and display the average values of corresponding elements across the tuples contained within a larger tuple. This means each position in the resulting list of averages should reflect the average value at that position across all inner tuples. The function avg_of_tuples aims to accomplish this by iterating over the tuples and calculating the averages, but the implementation needs correction to accurately perform as described. Specifically, it should average across the same positions in each tuple and fix the incorrect appending operation.</p>
 
 ###
 
@@ -35,17 +47,20 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="140" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="140" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+
+###
 </div>
 
 ###
