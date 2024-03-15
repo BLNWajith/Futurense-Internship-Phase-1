@@ -1,9 +1,10 @@
-<div align="right">
-  <img height="140"
-    src = "![75ez](https://github.com/BLNWajith/Internship-work/assets/161812511/997cea05-8a93-485e-8ed0-ae366073dbd8)" />
-  </div>
+###
 
-  ###
+<div align="right">
+  <img height="140" src="![75ez](https://github.com/BLNWajith/Internship-work/assets/161812511/997cea05-8a93-485e-8ed0-ae366073dbd8)"  />
+</div>
+
+###
 
 <h3 align="left">Introduction</h3>
 
