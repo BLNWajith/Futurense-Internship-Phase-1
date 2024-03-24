@@ -1,4 +1,4 @@
-# Comprehensive Analytics Dashboard Project
+# Comprehensive Analytics Project
 
 Welcome to our Analytics Dashboard Project, where we delve into the heart of data to uncover insights, trends, and predictions that drive strategic decision-making. Our project is structured into four core sections: Descriptive Analysis, Diagnostic Analysis, Predictive Analysis, and Prescriptive Analysis. Each section utilizes specific analysis types and visualization tools to bring our data to life. Let's dive in!
 
